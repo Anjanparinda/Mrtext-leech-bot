@@ -14,7 +14,7 @@
 
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AshutoshGoswami24/text-leech-bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anjanparinda/Mrtext-leech-bot)
 
 ## Deploy To Google Colab
 
@@ -24,7 +24,8 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/AshutoshGoswami24/text-leech-bot&branch=main&name=ashutoshgoswami" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=
+  github.com/Anjanparinda/Mrtext-leech-bot&branch=main&name=Anjanparinda" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
